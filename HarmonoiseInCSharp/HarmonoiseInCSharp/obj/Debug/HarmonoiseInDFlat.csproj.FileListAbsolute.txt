@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\HarmonoiseInDFlat\bin\Debug\HarmonoiseInDFlat.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\HarmonoiseInDFlat\bin\Debug\HarmonoiseInDFlat.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\HarmonoiseInDFlat\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\HarmonoiseInDFlat\obj\Debug\HarmonoiseInDFlat.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\HarmonoiseInDFlat\obj\Debug\HarmonoiseInDFlat.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\HarmonoiseInDFlat\HarmonoiseInDFlat\bin\Debug\HarmonoiseInDFlat.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\HarmonoiseInDFlat\HarmonoiseInDFlat\bin\Debug\HarmonoiseInDFlat.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\HarmonoiseInDFlat\HarmonoiseInDFlat\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\HarmonoiseInDFlat\HarmonoiseInDFlat\obj\Debug\HarmonoiseInDFlat.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\HarmonoiseInDFlat\HarmonoiseInDFlat\obj\Debug\HarmonoiseInDFlat.pdb

@@ -1,0 +1,12 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\HarmonoiseInCSharp\HarmonoiseInDFlat\HarmonoiseInDFlat\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\HarmonoiseInCSharp\HarmonoiseInDFlat\HarmonoiseInDFlat\bin\Debug\HarmonoiseInCSharp.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\HarmonoiseInCSharp\HarmonoiseInDFlat\HarmonoiseInDFlat\bin\Debug\HarmonoiseInCSharp.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\HarmonoiseInCSharp\HarmonoiseInDFlat\HarmonoiseInDFlat\obj\Debug\HarmonoiseInCSharp.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\HarmonoiseInCSharp\HarmonoiseInDFlat\HarmonoiseInDFlat\obj\Debug\HarmonoiseInCSharp.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\HarmonoiseInCSharp\HarmonoiseInCSharp\HarmonoiseInCSharp\bin\Debug\HarmonoiseInCSharp.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\HarmonoiseInCSharp\HarmonoiseInCSharp\HarmonoiseInCSharp\bin\Debug\HarmonoiseInCSharp.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\HarmonoiseInCSharp\HarmonoiseInCSharp\HarmonoiseInCSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\HarmonoiseInCSharp\HarmonoiseInCSharp\HarmonoiseInCSharp\obj\Debug\HarmonoiseInCSharp.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\HarmonoiseInCSharp\HarmonoiseInCSharp\HarmonoiseInCSharp\obj\Debug\HarmonoiseInCSharp.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\HarmonoiseInCSharp\HarmonoiseInCSharp\Debug\HarmonoiseInCSharp.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\HarmonoiseInCSharp\HarmonoiseInCSharp\Debug\HarmonoiseInCSharp.pdb
